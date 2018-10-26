@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/one"
+        android:title="Waktu Terbaru"/>
+
+    <item
+        android:id="@+id/two"
+        android:title="Waktu Terlama"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="Gaji Terendah"/>
+    <item
+        android:id="@+id/four"
+        android:title="Gaji Tertinggi"/>
+
+</menu>
